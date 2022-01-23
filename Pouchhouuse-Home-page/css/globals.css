@@ -5,6 +5,12 @@
 /* The following line is used to measure usage of this code in production. For more info see our usage billing page */
 @import url("https://px.animaapp.com/61e1d5b5bf598a10d4f1b1ea.61e1d5b7bf598a10d4f1b1ed.tzucl51.hcp.png");
 
+@media (min-width: 1400px){
+  .container{
+    max-width:1440px;
+  }
+}
+
 .screen a {
   display: contents;
   text-decoration: none;
